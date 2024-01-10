@@ -1,4 +1,4 @@
-# Bash Examples
+# Javascript Examples
 
 
 <details>
