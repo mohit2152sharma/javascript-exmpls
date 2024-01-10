@@ -19,7 +19,7 @@ def create_content(files):
 
 
 def create_readme(cntnt):
-    sting = "# Bash Examples\n"
+    sting = "# Javascript Examples\n"
     for h, t in cntnt:
         sting += f"\n\n<details>\n\n<summary>{h}</summary>\n\n{t}\n\n</details>"
 
