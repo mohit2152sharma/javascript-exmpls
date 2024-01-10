@@ -25,4 +25,4 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add --all
           git commit -m "Updated readme on `date` with GitHub Actions" || true
-          git push origin master || true
+          git push origin main || true
